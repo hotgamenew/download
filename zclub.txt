@@ -1,1 +1,1 @@
-"http://ghosttrain.xyz/zclub.php"
+http://ghosttrain.xyz/zclub.php
